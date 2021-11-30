@@ -1,0 +1,20 @@
+C:\Users\harun\source\repos\ponodoro\ponodoro\bin\Debug\ponodoro.exe.config
+C:\Users\harun\source\repos\ponodoro\ponodoro\bin\Debug\ponodoro.exe
+C:\Users\harun\source\repos\ponodoro\ponodoro\bin\Debug\ponodoro.pdb
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.Form1.resources
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.Properties.Resources.resources
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.GenerateResource.cache
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.exe
+C:\Users\harun\source\repos\ponodoro\ponodoro\obj\Debug\ponodoro.pdb
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\bin\Debug\ponodoro.exe.config
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\bin\Debug\ponodoro.exe
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\bin\Debug\ponodoro.pdb
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.AssemblyReference.cache
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.Form1.resources
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.Properties.Resources.resources
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.GenerateResource.cache
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.csproj.CoreCompileInputs.cache
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.exe
+C:\Users\harun\Documents\Visual Studio 2019\Projects\ponodoro\ponodoro\obj\Debug\ponodoro.pdb
